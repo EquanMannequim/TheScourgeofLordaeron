@@ -1,0 +1,542 @@
+﻿STRING 23
+{
+United We Stand
+}
+
+STRING 552
+{
+Scourge
+}
+
+STRING 623
+{
+ |cffffff00Scourge of Lordaeron v1.5
+}
+
+STRING 625
+{
+Made By: Loguasinto
+
+
+
+
+All Credits goes to Its respective owners:
+Cr33d[HoA] and Costin[HoA]
+
+Cr33d[HoA] and Costin[HoA]
+}
+
+STRING 626
+{
+Loguasinto
+}
+
+STRING 629
+{
+Made by Loguasinto
+
+Please Message me Through Loguasinto #1818
+For Info's of the new Upcoming Patch!
+
+}
+
+STRING 713
+// Destructibles: B000 (Quel Tower), Name (Name)
+{
+Quel Tower
+}
+
+STRING 714
+// Destructibles: B001 (Death Tower), Name (Name)
+{
+Death Tower
+}
+
+STRING 715
+// Destructibles: lB00 (Lordaeron Wall), Name (Name)
+{
+Lordaeron Wall
+}
+
+STRING 716
+// Destructibles: B002 (Lordaeron Wall), Name (Name)
+{
+Lordaeron Wall
+}
+
+STRING 717
+// Destructibles: B003 (Lordaeron Wall), Name (Name)
+{
+Lordaeron Wall
+}
+
+STRING 718
+// Destructibles: B004 (Lordaeron Wall), Name (Name)
+{
+Lordaeron Wall
+}
+
+STRING 719
+// Destructibles: B006 (Dalaran chucnks), Name (Name)
+{
+Dalaran chucnks
+}
+
+STRING 720
+// Destructibles: B007 (Ashenvale Canopy Treeworld), Name (Name)
+{
+Ashenvale Canopy Treeworld
+}
+
+STRING 3715
+{
+Not enough Resources
+}
+
+STRING 3716
+{
+|cffff0000Calm the hell down, you're never going to please a woman in life if you're always in a hurry!|r
+}
+
+STRING 3717
+{
+Spawn level %d.
+}
+
+STRING 3718
+{
+|cffffd700Type:|r |cff808080Fortified|r
+}
+
+STRING 3719
+{
+|cffffd700Type: |r|cff6e41ffEnchanted Armor|r
+}
+
+STRING 3720
+{
+|cffffd700Type:|r |cffff0000Plate|r
+}
+
+STRING 3721
+{
+|cffffd700Type: |r|cff4e381cChain Mail|r
+}
+
+STRING 3722
+{
+|cffffd700Type:|r |cffff0000Melee|r
+}
+
+STRING 3723
+{
+|cffffd700Type: |r|cff415dffLeather|r
+}
+
+STRING 3724
+{
+|cFFFFF96DType|r: |Cffffcc00Divine|R
+}
+
+STRING 3725
+{
+|cffffd700Type: |r|cff00f65aCloth|r
+}
+
+STRING 3726
+{
+|cffffd700Fortified:|r|n|cff00ff0035% from Magic|n40% from Ranged|n50% from Enchanted Weapons|r|cff008000|n70% from Melee|r|n|cffffa500100% from Demonic|r
+}
+
+STRING 3727
+{
+|cffffd700Enchanted Armor: |r|n|cff32cd3250% from Magic|n50% from Ranged|r|cff00ff00|n|r|cffffa500100% from Enchanted Weapons|n100% from Melee|r|n|cffff0000150% from Demonic|r
+}
+
+STRING 3728
+{
+|cffffd700Plate:|r |n|cff00800070% from Ranged|n80% from Melee|n|r|cffffa500100% from Demonic|r|n|cffff4500110% from Enchanted Weapons|r|n|cffff0000175% from Magic|r
+}
+
+STRING 3729
+{
+|cffffd700Chainmail:|r |n|cff00800090% from ranged|r|n|cff00800090% from Melee|r|cffffa500|n100% from Enchanted|n100% from Demonic|r|n|cffff4500125% from magic|r
+}
+
+STRING 3730
+{
+|cffffd700Chainmail:|r |n|cff00800090% from ranged|r|n|cff00800090% from Melee|r|cffffa500|n100% from Enchanted|n100% from Demonic|r|n|cffff4500125% from magic|r
+}
+
+STRING 3731
+{
+|cffffd700Leather Armor:|r |n|cff32cd3250% from Magic|r|cff008000|n|r|cffffa500100% from Ranged|r|n|cffffa500100% from Demonic|r|n|cffffa500100% from Enchanted Weapons|r|n|cffff0000130% from Melee|r
+}
+
+STRING 3732
+{
+|cffffd700Cloth:|n|r|cff00800070% from Enchanted|n|r|cffffa500100% from Magic|r|cffffd700|n|r|cffffa500100% from Demonic|r|cffffd700|n|r|cffff0000130% from Melee|n150% from Ranged|r|cffffd700|r
+}
+
+STRING 3733
+{
+|cffffd700Fortified:|r|n|cff00ff0035% from Magic|n40% from Ranged|n50% from Enchanted Weapons|r|cff008000|n70% from Melee|r|n|cffffa500100% from Demonic|r
+}
+
+STRING 3734
+{
+|cffffd700Enchanted Armor: |r|n|cff32cd3250% from Magic|n50% from Ranged|r|cff00ff00|n|r|cffffa500100% from Enchanted Weapons|n100% from Melee|r|n|cffff0000150% from Demonic|r
+}
+
+STRING 3735
+{
+|cffffd700Plate:|r |n|cff00800070% from Ranged|n80% from Melee|n|r|cffffa500100% from Demonic|r|n|cffff4500110% from Enchanted Weapons|r|n|cffff0000175% from Magic|r
+}
+
+STRING 3736
+{
+Chainmail: Takes 110% damage from enchanted weapons/120% from magic/90% from melee/75% from ranged/115% from siege.
+}
+
+STRING 3737
+{
+|cffffd700Leather Armor:|r |n|cff32cd3250% from Magic|r|cff008000|n|r|cffffa500100% from Ranged|r|n|cffffa500100% from Demonic|r|n|cffffa500100% from Enchanted Weapons|r|n|cffff0000130% from Melee|r
+}
+
+STRING 3738
+{
+|cffffd700Cloth:|n|r|cff00800070% from Enchanted|n|r|cffffa500100% from Magic|r|cffffd700|n|r|cffffa500100% from Demonic|r|cffffd700|n|r|cffff0000130% from Melee|n150% from Ranged|r|cffffd700|r
+}
+
+STRING 3739
+{
+|cffffd700Fortified:|r|n|cff00ff0035% from Magic|n40% from Ranged|n50% from Enchanted Weapons|r|cff008000|n70% from Melee|r|n|cffffa500100% from Demonic|r
+}
+
+STRING 3740
+{
+|cffffd700Enchanted Armor: |r|n|cff32cd3250% from Magic|n50% from Ranged|r|cff00ff00|n|r|cffffa500100% from Enchanted Weapons|n100% from Melee|r|n|cffff0000150% from Demonic|r
+}
+
+STRING 3741
+{
+|cffffd700Plate:|r |n|cff00800070% from Ranged|n80% from Melee|n|r|cffffa500100% from Demonic|r|n|cffff4500110% from Enchanted Weapons|r|n|cffff0000175% from Magic|r
+}
+
+STRING 3742
+{
+|cffffd700Chainmail:|r |n|cff00800090% from ranged|r|n|cff00800090% from Melee|r|cffffa500|n100% from Enchanted|n100% from Demonic|r|n|cffff4500125% from magic|r
+}
+
+STRING 3743
+{
+|cffffd700Leather Armor:|r |n|cff32cd3250% from Magic|r|cff008000|n|r|cffffa500100% from Ranged|r|n|cffffa500100% from Demonic|r|n|cffffa500100% from Enchanted Weapons|r|n|cffff0000130% from Melee|r
+}
+
+STRING 3744
+{
+|cffffd700Cloth:|n|r|cff00800070% from Enchanted|n|r|cffffa500100% from Magic|r|cffffd700|n|r|cffffa500100% from Demonic|r|cffffd700|n|r|cffff0000130% from Melee|n150% from Ranged|r|cffffd700|r
+}
+
+STRING 3745
+{
+|cffffd700Type:|r |cff6e41ffEnchanted Weapon|r
+}
+
+STRING 3746
+{
+|cffffd700Type:|r |cffd0dad9Magic|r
+}
+
+STRING 3747
+{
+|cffffd700Type:|r |cffff0000Melee|r
+}
+
+STRING 3748
+{
+|cffffd700Type:|r |cffff0000Melee|r
+}
+
+STRING 3749
+{
+|cffffd700Type:|r |cff415dffRanged|r
+}
+
+STRING 3750
+{
+|cFFFFF96DType|r: |cFF000001Siege|r
+}
+
+STRING 3751
+{
+|cffffd700Type: |r|cffff5400Demonic|r
+}
+
+STRING 3752
+{
+|cffffd700Enchanted Weapons:|r|cff008000|n110% against Plate|n|r|cffffa500100% against Leather |r|cff008000|n|r|cffffa500100% against Chainmail|r|n|cffffa500100% against enchanted armor|r|n|cffff450070% against Cloth.|r|n|cffff000050% against Fortified |r
+}
+
+STRING 3753
+{
+|cffffd700Melee:|n|r|cff008000130% against Cloth|r|cffffd700|n|r|cff008000130% against leather|n|r|cffffa500100% against Enchanted|n|r|cffff450090% against Chainmail|r|cffffd700|n|r|cffff450080% against Plate|r|cffffd700|n|r|cffff000070% against fortified|r
+}
+
+STRING 3754
+{
+|cffffd700Melee:|n|r|cff008000130% against Cloth|r|cffffd700|n|r|cff008000130% against leather|n|r|cffffa500100% against Enchanted|n|r|cffff450090% against Chainmail|r|cffffd700|n|r|cffff450080% against Plate|r|cffffd700|n|r|cffff000070% against fortified|r
+}
+
+STRING 3755
+{
+|cffffd700Magic:|n|r|cff00ff00175% against Plate|r|cffffd700|n|r|cff008000125% against Chainmail|r|n|cffffa500100% against Cloth|r|n|cffff000050% against Enchanted Armor|n40% against leather|n35% against fortified |r
+}
+
+STRING 3756
+{
+|cffffd700Ranged:|n|r|cff32cd32150% against Cloth|r|cffffd700|n|r|cffffa500100% agains Leather|n100% against Enchanted|r|cff008000|n|r|cffff450090% against Chainmail|r|cffffd700|n|r|cffff000070% against Plate|n50% against Fortified|r
+}
+
+STRING 3757
+{
+|cffffd700Demonic|n|r|cff32cd32125% damage to Enchanted armor|r|cff008000|n100% damage to all armor types.|n|r
+}
+
+STRING 3758
+{
+Siege attacks do: 110% damage to Enchanted Armor/115% to chainmail/115% to plate/160% to fortified/120% to leather/150% to Cloth.
+}
+
+STRING 3759
+{
+|cffffd700Enchanted Weapons:|r|cff008000|n110% against Plate|n|r|cffffa500100% against Leather |r|cff008000|n|r|cffffa500100% against Chainmail|r|n|cffffa500100% against enchanted armor|r|n|cffff450070% against Cloth.|r|n|cffff000050% against Fortified |r
+}
+
+STRING 3760
+{
+|cffffd700Melee:|n|r|cff32cd32150% against Cloth|r|cffffd700|n|r|cff008000130% against leather|n|r|cffffa500100% against Enchanted|n|r|cffff450090% against Chainmail|r|cffffd700|n|r|cffff450080% against Plate|r|cffffd700|n|r|cffff000070% against fortified|r
+}
+
+STRING 3761
+{
+|cffffd700Melee:|n|r|cff008000130% against Cloth|r|cffffd700|n|r|cff008000130% against leather|n|r|cffffa500100% against Enchanted|n|r|cffff450090% against Chainmail|r|cffffd700|n|r|cffff450080% against Plate|r|cffffd700|n|r|cffff000070% against fortified|r
+}
+
+STRING 3762
+{
+|cffffd700Magic:|n|r|cff00ff00175% against Plate|r|cffffd700|n|r|cff008000125% against Chainmail|r|n|cffffa500100% against Cloth|r|n|cffff000050% against Enchanted Armor|n40% against leather|n35% against fortified |r
+}
+
+STRING 3763
+{
+|cffffd700Ranged:|n|r|cff32cd32150% against Cloth|r|cffffd700|n|r|cffffa500100% agains Leather|n100% against Enchanted|r|cff008000|n|r|cffff450090% against Chainmail|r|cffffd700|n|r|cffff000070% against Plate|n50% against Fortified|r
+}
+
+STRING 3764
+{
+|cffffd700Demonic|n|r|cff32cd32125% damage to Enchanted armor|r|cff008000|n100% damage to all armor types.|n|r
+}
+
+STRING 3765
+{
+Siege attacks do: 110% damage to Enchanted Armor/115% to chainmail/115% to plate/160% to fortified/120% to leather/150% to Cloth.
+}
+
+STRING 3766
+{
+|cffffd700Enchanted Weapons:|r|cff008000|n110% against Plate|n|r|cffffa500100% against Leather |r|cff008000|n|r|cffffa500100% against Chainmail|r|n|cffffa500100% against enchanted armor|r|n|cffff450070% against Cloth.|r|n|cffff000050% against Fortified |r
+}
+
+STRING 3767
+{
+|cffffd700Melee:|n|r|cff008000130% against Cloth|r|cffffd700|n|r|cff008000130% against leather|n|r|cffffa500100% against Enchanted|n|r|cffff450090% against Chainmail|r|cffffd700|n|r|cffff450080% against Plate|r|cffffd700|n|r|cffff000070% against fortified|r
+}
+
+STRING 3768
+{
+|cffffd700Melee:|n|r|cff008000130% against Cloth|r|cffffd700|n|r|cff008000130% against leather|n|r|cffffa500100% against Enchanted|n|r|cffff450090% against Chainmail|r|cffffd700|n|r|cffff450080% against Plate|r|cffffd700|n|r|cffff000070% against fortified|r
+}
+
+STRING 3769
+{
+|cffffd700Magic:|n|r|cff00ff00175% against Plate|r|cffffd700|n|r|cff008000125% against Chainmail|r|n|cffffa500100% against Cloth|r|n|cffff000050% against Enchanted Armor|n40% against leather|n35% against fortified |r
+}
+
+STRING 3770
+{
+|cffffd700Ranged:|n|r|cff32cd32150% against Cloth|r|cffffd700|n|r|cffffa500100% agains Leather|n100% against Enchanted|r|cff008000|n|r|cffff450090% against Chainmail|r|cffffd700|n|r|cffff000070% against Plate|n50% against Fortified|r
+}
+
+STRING 3771
+{
+|cffffd700Demonic|n|r|cff32cd32125% damage to Enchanted armor|r|cff008000|n100% damage to all armor types.|n|r
+}
+
+STRING 3772
+{
+Siege attacks do: 110% damage to Enchanted Armor/115% to chainmail/115% to plate/160% to fortified/120% to leather/150% to Cloth.
+}
+
+STRING 3773
+{
+I LOVE PINK BUNNYS
+}
+
+STRING 3774
+{
+I LOVE PINK BUNNYS
+}
+
+STRING 3775
+{
+Resources
+}
+
+STRING 3776
+{
+|cffff0000When server splits drop by..|r
+}
+
+STRING 3777
+{
+Information (|Cfffed312F9|R)
+}
+
+STRING 3778
+{
+Resources
+}
+
+STRING 3779
+{
+Information
+}
+
+STRING 3780
+{
+Game Info
+}
+
+STRING 3781
+{
+Additional Info
+}
+
+STRING 3782
+{
+Gold is generated over time by building economic structures.
+}
+
+STRING 3783
+{
+Resources is gained by various things, check the questlog for more info.
+}
+
+STRING 3784
+{
+The amount of food you are using over the total amount you can currently sustain.
+}
+
+STRING 3785
+{
+Gold Gained:
+}
+
+STRING 3786
+{
+Resources
+}
+
+STRING 3787
+{
+TSoL
+}
+
+STRING 3788
+{
+The Undead!
+}
+
+STRING 3805
+{
+Cult of the Damned
+}
+
+STRING 3807
+{
+Warsong Clan
+}
+
+STRING 3810
+{
+Legion
+}
+
+STRING 3811
+{
+Farstriders
+}
+
+STRING 3816
+{
+Horde
+}
+
+STRING 3828
+{
+Stormguarde
+}
+
+STRING 3838
+{
+Quel'thalas
+}
+
+STRING 3839
+{
+Silverhand
+}
+
+STRING 3845
+{
+The Alliance
+}
+
+STRING 3862
+{
+The Legion
+}
+
+STRING 9587
+{
+Dalaran
+}
+
+STRING 9615
+{
+Lordaeron
+}
+
+STRING 9946
+{
+The Scourge of Lordaeron
+}
+
+STRING 9951
+{
+Trolls
+}
+
+STRING 9956
+// Units: n00V (Control Point), Name (Name)
+{
+Control Point
+}
+
+STRING 9957
+// Units: n00V (Control Point), EditorSuffix (Name - Editor Suffix)
+{
+(Capturable
+}
+
