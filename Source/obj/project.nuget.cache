@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "ljzVm4uCP7TZpUP3H2iiCDQZKmNYT19mPWdOMG3BOl+G49t5GI5/QetnvdVqlW0Vtk+zSUsMeG/OaVoFAEzcAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samuel\\source\\repos\\WCSharpTemplate\\Source\\Source.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samuel\\.nuget\\packages\\wcsharp.api\\0.1.100\\wcsharp.api.0.1.100.nupkg.sha512",
+    "C:\\Users\\Samuel\\.nuget\\packages\\wcsharp.buffs\\3.0.0-rc3\\wcsharp.buffs.3.0.0-rc3.nupkg.sha512",
+    "C:\\Users\\Samuel\\.nuget\\packages\\wcsharp.datetime\\3.0.0-rc1\\wcsharp.datetime.3.0.0-rc1.nupkg.sha512",
+    "C:\\Users\\Samuel\\.nuget\\packages\\wcsharp.dummies\\3.0.0-rc1\\wcsharp.dummies.3.0.0-rc1.nupkg.sha512",
+    "C:\\Users\\Samuel\\.nuget\\packages\\wcsharp.effects\\3.0.0-rc1\\wcsharp.effects.3.0.0-rc1.nupkg.sha512",
+    "C:\\Users\\Samuel\\.nuget\\packages\\wcsharp.events\\3.0.0-rc8\\wcsharp.events.3.0.0-rc8.nupkg.sha512",
+    "C:\\Users\\Samuel\\.nuget\\packages\\wcsharp.json\\3.0.0-rc1\\wcsharp.json.3.0.0-rc1.nupkg.sha512",
+    "C:\\Users\\Samuel\\.nuget\\packages\\wcsharp.knockbacks\\3.0.0-rc1\\wcsharp.knockbacks.3.0.0-rc1.nupkg.sha512",
+    "C:\\Users\\Samuel\\.nuget\\packages\\wcsharp.lightnings\\3.0.0-rc1\\wcsharp.lightnings.3.0.0-rc1.nupkg.sha512",
+    "C:\\Users\\Samuel\\.nuget\\packages\\wcsharp.missiles\\3.0.0-rc2\\wcsharp.missiles.3.0.0-rc2.nupkg.sha512",
+    "C:\\Users\\Samuel\\.nuget\\packages\\wcsharp.saveload\\3.0.0-rc1\\wcsharp.saveload.3.0.0-rc1.nupkg.sha512",
+    "C:\\Users\\Samuel\\.nuget\\packages\\wcsharp.shared\\3.0.0-rc3\\wcsharp.shared.3.0.0-rc3.nupkg.sha512",
+    "C:\\Users\\Samuel\\.nuget\\packages\\wcsharp.sync\\3.0.0-rc1\\wcsharp.sync.3.0.0-rc1.nupkg.sha512",
+    "C:\\Users\\Samuel\\.nuget\\packages\\wcsharp.w3mmd\\3.0.0-rc1\\wcsharp.w3mmd.3.0.0-rc1.nupkg.sha512"
+  ],
+  "logs": []
+}
